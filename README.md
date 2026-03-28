@@ -36,9 +36,7 @@ The analysis is performed using Python in a Jupyter Notebook, with a strong emph
 
 * Python 🐍
 * Pandas
-* NumPy
-* Matplotlib
-* Seaborn / Plotly
+* Plotly
 * Jupyter Notebook
 
 ---
